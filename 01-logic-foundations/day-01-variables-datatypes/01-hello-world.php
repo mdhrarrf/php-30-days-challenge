@@ -1,0 +1,1 @@
+<?php echo "Halo, saya sedang belajar PHP Fundamental!"?>
