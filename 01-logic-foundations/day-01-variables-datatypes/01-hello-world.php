@@ -1,1 +1,1 @@
-<?php echo "Halo, saya sedang belajar PHP Fundamental!"?>
+<?php echo "Halo, saya sedang belajar PHP Fundamental!"?>;
